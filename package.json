@@ -1,0 +1,16 @@
+{
+  "name": "zerocloudsync",
+  "version": "1.0.0",
+  "description": "Syncronizes your ZeroTier cloud with Cloudflare",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ron Egli <ron@r-egli.com> (github.com/smugzombie)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1",
+    "dotnet": "^1.1.4"
+  }
+}
